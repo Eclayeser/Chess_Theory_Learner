@@ -88,5 +88,5 @@ while run:
     check_clicked(default_set)
 
     pygame.display.update()
-    clock.tick(60)
+    clock.tick(30)
 pygame.quit()
